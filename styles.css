@@ -1,0 +1,23 @@
+h1, h2 {
+    color:blue;
+    text-align:center;
+}
+
+#orangeBack{
+    background-color:orange;
+    border: 3px solid black;
+    width: auto;
+    height:200px;
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight: bold;
+ }
+
+ul > li {
+    color:blue;
+ }
+
+ button:hover{
+    background-color: turquoise;
+ }
